@@ -180,7 +180,7 @@ class Bot {
         }
     }
 
-    private function getCommand($data) {
+    public function getCommand($data) {
         if (isset($data['text'])) {
             $argsOffset = 0;
             if (strpos($data['text'], '<@'.$this->context['self']['id'].'>') === 0) {
