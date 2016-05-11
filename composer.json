@@ -1,7 +1,7 @@
 {
-    "name": "jclg/php-slack-bot",
+    "name": "valerijv/php-slack-bot-vpatch",
     "description": "Slack bot user written in PHP",
-    "homepage": "https://github.com/jclg/php-slack-bot",
+    "homepage": "https://github.com/valerijv/php-slack-bot-vpatch",
     "require": {
         "devristo/phpws": "dev-master",
         "react/http": "dev-master"
@@ -10,6 +10,9 @@
         {
             "name": "jclg",
             "email": "jeancharleslegoff@gmail.com"
+        }, {
+            "name": "valerij",
+            "email": "valerij.vasilcenko@gmail.com"
         }
     ],
     "autoload": {
