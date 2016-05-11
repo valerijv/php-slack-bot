@@ -11,7 +11,7 @@ Create a new composer.json file and add the following
     {
         "minimum-stability" : "dev",
         "require": {
-            "jclg/php-slack-bot": "dev-master"
+            "valerijv/php-slack-bot-vpatch": "dev-master"
         }
     }
 
